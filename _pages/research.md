@@ -8,7 +8,7 @@ author_profile: true
 Working Papers
 ===
 
-[Heterogeneous Asset Returns and Monetary Policy Redistribution](https://rdatta2-code.github.io/files/Heterogeneous_Asset_Returns_and_Monetary_Policy_Redistribution.pdf)
+[Heterogeneous Asset Returns and Monetary Policy Redistribution](https://rdatta2-code.github.io/files/Heterogeneous_Asset_Returns_and_Monetary_Policy_Redistribution_latest.pdf)
 > My research investigates wealth inequality in the monetary policy’s short-run impact on consumption amid household heterogeneity. Specifically, I quantify the general equilibrium effect on aggregate consumption of automatic wealth transfers caused by a change in the federal funds rate in an economy where households are heterogeneous in their marginal propensities to consume out of income. I unveil how a 1% federal funds rate decrease boosts consumption by 1.63% generally. Noteworthy is the asym- metric effect: a 1% rate hike lowers consumption only by 1.02% , hinting at soft landing challenges. I also dissect borrowing constraints’ interplay with returns heterogeneity by housing tenure and age, determining distinct group exposures to monetary policy shifts, pinpointing winners and losers. I quantify the aggregate redistribution effect in such cases, noting a 3.02% and 1.43% consumption increase for outright homeowners and mortgage holders respectively from a 1% federal funds rate. The corresponding numbers are 1.57% for middle-aged versus 1.29% for young individuals. The effects are also strongly asymmetric.
 
 [Choice of Refinancing & Hand-to-mouth Status](https://rdatta2-code.github.io/files/Choice_of_Refinancing_and_Hand_to_mouth_Status.pdf)
