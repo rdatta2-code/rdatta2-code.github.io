@@ -13,6 +13,8 @@ Welcome!
 I am a Ph.D. candidate in Economics at the University of Washington.
 I am a computational macroeconomist with interests in wealth inequality, housing and heterogenous agent DSGEs, monetary policy and applied econometrics. My research aims to develop structural models motivated by empirics with practical implications for monetary & fiscal policy. 
 
+I am on the job market during the 2023-2024 academic year and am available for interviews. 
+
 Curriculum Vitae
 ------
 Please find my Curriculum Vitae [here](https://rdatta2-code.github.io/files/CV_Rajarshi_Datta.pdf).
