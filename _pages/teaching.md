@@ -13,6 +13,7 @@ author_profile: true
   * ECON 200 (Introduction to Microeconomics)   *Aut2020*
 
 ## Teaching Assistant
+  * QMETH 201 (Introduction To Statistical Methods)  *Spr2023*
   * ECON 300 (Intermediate Macroeconomics)      *Win2021*    
   * ECON 201 (Introduction to Macroeconomics)   *Aut2018-Spr2020* 
   
