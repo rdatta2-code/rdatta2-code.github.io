@@ -5,9 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
-Working Papers
+Job Market Paper
 ===
-
 [Heterogeneous Asset Returns and Monetary Policy Redistribution](https://rdatta2-code.github.io/files/Heterogeneous_Asset_Returns_and_Monetary_Policy_Redistribution_latest.pdf)
 > My research investigates the effects of monetary policy on wealth inequality and shortterm consumption dynamics due to changes in the federal funds rate. In this economy,
 housing and equity earn different rates of return while households exhibit heterogeneous
@@ -21,6 +20,8 @@ increase for outright homeowners and a 1.43% increase for mortgage holders follo
 a 1% federal funds rate decrease. Additionally, middle-aged individuals experience a
 1.57% consumption increase, while young individuals see a 1.29% increase under similar conditions. Notably, these effects exhibit pronounced asymmetry.
 
+Working Papers
+===
 Portfolio Choices, Asset Prices, and Wealth Inequality (with Yu-chin Chen and Brian Greaney)
 > The escalation in wealth inequality over recent decades underscores a substantial societal challenge, manifesting across both generational and racial divides. Notably, a stark disparity exists between the average wealth of households aged 20-39 and those aged 60 and above from the 1960s to 2019. Our investigation seeks to unearth the underlying mechanisms driving this trend, with a spotlight on changing asset returns as a pivotal contributor to burgeoning inequality. We meticulously explore three potential sources of disparity across birth cohorts and race: the vicissitudes of asset markets, varying levels of inheritance and debt at the outset of working life, and barriers to investment such as the costs associated with homeownership. Employing a dynamic heterogeneous-agent model, we delve into households' lifetime financial decisions, meticulously calibrating our model with the data from the Survey of Consumer Finances to scrutinize how asset returns, initial wealth, and investment opportunities collectively fuel the observed inequality trends. Our analytical journey extends to assessing the welfare effects and evaluating potential policy reforms to mitigate these entrenched disparities, aiming for a more equitable economic landscape.
 
