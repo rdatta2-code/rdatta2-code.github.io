@@ -9,7 +9,7 @@ author_profile: true
 
 
 ## Instructor  
-  * ECON 201 (Introduction to Macroeconomics)   *Sum2020, Winter2022*  
+  * ECON 201 (Introduction to Macroeconomics)   *Sum2020, Win2022*  
   * ECON 200 (Introduction to Microeconomics)   *Aut2020*
 
 ## Teaching Assistant
