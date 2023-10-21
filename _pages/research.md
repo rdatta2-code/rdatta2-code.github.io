@@ -7,7 +7,7 @@ author_profile: true
 
 Job Market Paper
 ===
-[Heterogeneous Asset Returns and Monetary Policy Redistribution](https://rdatta2-code.github.io/files/Heterogeneous_Asset_Returns_and_Monetary_Policy_Redistribution_latest.pdf)
+[Heterogeneous Asset Returns and Monetary Policy Redistribution](https://rdatta2-code.github.io/files/Heterogeneous_Asset_Returns_and_Monetary_Policy_Redistribution.pdf)
 > My research investigates the effects of monetary policy on wealth inequality and shortterm consumption dynamics due to changes in the federal funds rate. In this economy,
 housing and equity earn different rates of return while households exhibit heterogeneous
 marginal propensities to consume from their income, resulting in varying monetary policy impacts across the net wealth distribution. I find that a 1% decrease in the federal
