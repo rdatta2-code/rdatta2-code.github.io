@@ -8,17 +8,7 @@ author_profile: true
 Job Market Paper
 ===
 [Heterogeneous Asset Returns and Monetary Policy Redistribution](https://rdatta2-code.github.io/files/Heterogeneous_Asset_Returns_and_Monetary_Policy_Redistribution.pdf)
-> My research investigates the effects of monetary policy on wealth inequality and shortterm consumption dynamics due to changes in the federal funds rate. In this economy,
-housing and equity earn different rates of return while households exhibit heterogeneous
-marginal propensities to consume from their income, resulting in varying monetary policy impacts across the net wealth distribution. I find that a 1% decrease in the federal
-funds rate leads to a 1.63% increase in aggregate consumption, with an asymmetric effect: a 1% rate hike reduces consumption by only 1.02% , indicating potential challenges
-in achieving a ’soft landing.’ Moreover, I examine the interplay between borrowing
-constraints and return variations based on housing tenure and age, revealing distinct
-group exposures to monetary policy shifts and identifying winners and losers. For
-instance, I quantify an aggregate redistribution effect, yielding a 3.02% consumption
-increase for outright homeowners and a 1.43% increase for mortgage holders following
-a 1% federal funds rate decrease. Additionally, middle-aged individuals experience a
-1.57% consumption increase, while young individuals see a 1.29% increase under similar conditions. Notably, these effects exhibit pronounced asymmetry.
+> In a distributional examination of monetary policy impacts, my study explores how changes in the federal funds rate affect short-term consumption dynamics through the wealth inequality channel. Differential returns and prices of housing and equity, coupled with heterogeneous marginal propensities to consume out of income across households, drive disparate monetary policy repercussions across the net wealth spectrum. Exploring the impacts unveils a nuanced scenario contrasting existing literature: a 1% federal funds rate drop benefits outright homeowners more than double compared to mortgage holders (3.02% vs 1.43% ), yields a 1.72% rise for older individuals, and a 1.29% boost for younger ones. The middle 50-90% net wealth distribution gains nearly twice as much as the bottom 50 % (1.51% vs 0.8% ). The analysis unveils varying group susceptibilities to monetary policy alterations, underscoring the diversified effects based on housing tenure, age, and borrowing constraints. While identifying winners and losers, I also study how the distribution affects the aggregate. A 1% reduction in the federal increases overall consumption by 1.63%. There also exists significant asymmetries at all levels with 1% rate increase curtailing aggregate consumption by merely 1.02%, signifying hurdles in orchestrating a ’soft landing.’
 
 Working Papers
 ===
