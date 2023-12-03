@@ -25,7 +25,7 @@ References
 Professor Yu-chin Chen (Chair) : [yuchin@uw.edu](mailto:yuchin@uw.edu) <br/>
 Professor Brian Greaney (Chair) : [bg385@uw.edu](mailto:bg385@uw.edu) <br/>
 Professor Fabio Ghironi (committee) : [ghiro@uw.edu](mailto:ghiro@uw.edu) <br/>
-Professor Stephen Turnovsky (committee) : [sturn@uw.edu](mailto:sturn@uw.edu) <br/>
+Claudia Sahm : [claudia.sahm@gmail.com](mailto:claudia.sahm@gmail.com) <br/>
 
 Research Field
 ------
