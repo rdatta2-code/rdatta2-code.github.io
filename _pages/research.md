@@ -7,12 +7,12 @@ author_profile: true
 
 Job Market Paper
 ===
-[**_Heterogeneous Asset Returns and Monetary Policy Redistribution_**](https://rdatta2-code.github.io/files/Heterogeneous_Asset_Returns_and_Monetary_Policy_Redistribution.pdf)
+[Heterogeneous Asset Returns and Monetary Policy Redistribution](https://rdatta2-code.github.io/files/Heterogeneous_Asset_Returns_and_Monetary_Policy_Redistribution.pdf)
 > In a distributional examination of monetary policy impacts, my study explores how changes in the federal funds rate affect short-term consumption dynamics through the wealth inequality channel. Differential returns and prices of housing and equity along with heterogeneous marginal propensities to consume out of income across households, cause uneven effects of monetary policy on individuals with different net wealth. Exploring the impacts unveils surprising results contrasting to existing literature: a 1% federal funds rate drop increases consumption of outright homeowners by more than double relative to mortgage holders (3.02% vs 1.43%), yields a 1.72% rise for older individuals with a 1.29% boost for younger ones. The middle 50-90% net wealth distribution gain nearly twice as much as the bottom 50% (1.51% vs 0.8%). The analysis unveils varying group susceptibilities to monetary policy, underscoring the diversified effects based on housing tenure, age, and borrowing constraints. Besides identifying winners and losers, I also study how the distribution affects the aggregate. A 1% reduction in the federal funds rate increases overall consumption by 1.63%. There also exists significant asymmetries at all levels with 1% increase curtailing aggregate consumption by merely 1.02%, signifying hurdles in achieving a ’soft landing.’
 
 Other Working Papers
 ===
-**_Portfolio Choices, Asset Prices, and Wealth Inequality (with Yu-chin Chen and Brian Greaney)_**
+**Portfolio Choices, Asset Prices, and Wealth Inequality (with Yu-chin Chen and Brian Greaney)**
 > The escalation in wealth inequality over recent decades underscores a substantial societal challenge, manifesting across both generational and racial divides. Notably, a stark disparity exists between the average wealth of households aged 20-39 and those aged 60 and above from the 1960s to 2019. Our investigation seeks to unearth the underlying mechanisms driving this trend, with a spotlight on changing asset returns as a pivotal contributor to burgeoning inequality. We meticulously explore three potential sources of disparity across birth cohorts and race: the vicissitudes of asset markets, varying levels of inheritance and debt at the outset of working life, and barriers to investment such as the costs associated with homeownership. Employing a dynamic heterogeneous-agent model, we delve into households' lifetime financial decisions, meticulously calibrating our model with the data from the Survey of Consumer Finances to scrutinize how asset returns, initial wealth, and investment opportunities collectively fuel the observed inequality trends. Our analytical journey extends to assessing the welfare effects and evaluating potential policy reforms to mitigate these entrenched disparities, aiming for a more equitable economic landscape.
 
 
@@ -21,14 +21,14 @@ Other Working Papers
 
 Work in Progress
 ===
-**_Optimal Monetary Policy in Analytical HANK framework_** 
+**Optimal Monetary Policy in Analytical HANK framework** 
 > I explore the impact of wealth inequality on optimal monetary policy, focusing on how it influences the inflation-output gap. Drawing from Debortoli & Galí (2018), I use an analytical HANK model to analyze consumption disparities between different economic groups and its implications for central bank policies. My study also examines the interplay of expansionary monetary and fiscal policies during the pandemic, noting a rise in wealth inequality. I highlight the limitations of the TANK model in fully capturing the heterogeneity. The paper emphasizes the need for including multiple agents who have diverse portfolio shares and borrowing constraints to better understand the qualitative impications of nuances of canonical discretionary and committment poliies in the face of complex economic realities.
 
-**_Wealth Inequality, Housing and Business Cycles in the US_**
+**Wealth Inequality, Housing and Business Cycles in the US**
 > What is the role of wealth inequality in causing and amplifying business cycles & vice-versa? In particular, can we quantify the correlation between housing and estimated business cycle shocks & frictions along the lines of Bayer et al. (2020) with its subsequent impact on business-cycles & the time-varying wealth distribution ? I propose to estimate a heterogeneous-agent New-Keynesian (HANK) model in continuous time featuring two illiquid assets and gross positions for housing. The model emphasizes the
 differential impacts of asset price changes suitably calibrated to match key features of the observed US wealth distribution. The constructed counterfactuals are intended to have strong implications for the redistributive role of monetary & fiscal policy in impacting the wealth-shares of both the top 10% & middle 50-90% in the post-pandemic era.
 
-**_Comparing Nowcast Performance of Mixed Frequency Bayesian VARs with Dynamic Factor models on Big Data_**
+**Comparing Nowcast Performance of Mixed Frequency Bayesian VARs vs Dynamic Factor models on Big Data**
 
 
 
