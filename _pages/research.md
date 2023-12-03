@@ -21,10 +21,10 @@ Portfolio Choices, Asset Prices, and Wealth Inequality (with Yu-chin Chen and Br
 
 Other Work in Progress
 ===
-* Optimal Monetary Policy in Analytical HANK framework
+Optimal Monetary Policy in Analytical HANK framework 
 > I explore the impact of wealth inequality on optimal monetary policy, focusing on how it influences the inflation-output gap. Drawing from Debortoli & Galí (2018), I use an analytical HANK model to analyze consumption disparities between different economic groups and its implications for central bank policies. My study also examines the interplay of expansionary monetary and fiscal policies during the pandemic, noting a rise in wealth inequality. I highlight the limitations of the TANK model in fully capturing the heterogeneity. The paper emphasizes the need for including multiple agents who have diverse portfolio shares and borrowing constraints to better understand the qualitative impications of nuances of canonical discretionary and committment poliies in the face of complex economic realities.
 
-* Wealth Inequality, Housing and Business Cycles in the US
+Wealth Inequality, Housing and Business Cycles in the US
 > What is the role of wealth inequality in causing and amplifying business cycles & vice-versa? In particular, can we quantify the correlation between housing and estimated business cycle shocks & frictions along the lines of Bayer et al. (2020) with its subsequent impact on business-cycles & the time-varying wealth distribution ? I propose to estimate a heterogeneous-agent New-Keynesian (HANK) model in continuous time featuring two illiquid assets and gross positions for housing. The model emphasizes the
 differential impacts of asset price changes suitably calibrated to match key features of the observed US wealth distribution. The constructed counterfactuals are intended to have strong implications for the redistributive role of monetary & fiscal policy in impacting the wealth-shares of both the top 10% & middle 50-90% in the post-pandemic era.
 
