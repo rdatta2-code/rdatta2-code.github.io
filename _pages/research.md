@@ -28,7 +28,7 @@ Work in Progress
 > What is the role of wealth inequality in causing and amplifying business cycles & vice-versa? In particular, can we quantify the correlation between housing and estimated business cycle shocks & frictions along the lines of Bayer et al. (2020) with its subsequent impact on business-cycles & the time-varying wealth distribution ? I propose to estimate a heterogeneous-agent New-Keynesian (HANK) model in continuous time featuring two illiquid assets and gross positions for housing. The model emphasizes the
 differential impacts of asset price changes suitably calibrated to match key features of the observed US wealth distribution. The constructed counterfactuals are intended to have strong implications for the redistributive role of monetary & fiscal policy in impacting the wealth-shares of both the top 10% & middle 50-90% in the post-pandemic era.
 
-**Comparing Nowcasts from Mixed Frequency Bayesian VARs and Dynamic Factor models**
+
 
 
 
