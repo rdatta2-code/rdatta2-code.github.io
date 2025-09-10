@@ -10,10 +10,11 @@ redirect_from:
 
 Welcome! 
 ======
-I am a Ph.D. candidate in Economics at the University of Washington.
-I am a computational macroeconomist with interests in wealth inequality, housing and heterogenous agent DSGEs, monetary policy and applied econometrics. My research aims to develop structural models motivated by empirics with practical implications for monetary & fiscal policy. 
+I am an applied economist and data scientist with a Ph.D. in Economics from the University of Washington. My expertise spans causal inference, time series forecasting, and model validation, with applications across tech, finance, and consulting.
 
-I am on the job market during the 2023-2024 academic year and am available for interviews. 
+I have delivered solutions at Amazon, Deloitte, D.E. Shaw, and Keystone AI—ranging from causal forecasting and supply chain scenario planning to revenue modeling under uncertainty and regulatory stress testing. My research combines Bayesian VARs, quasi-experimental methods, and structural macro models to analyze policy and financial stability questions.
+
+I bring a mix of academic rigor and applied experience, translating complex quantitative models into actionable insights for decision-makers in business, finance, and policy.
 
 Curriculum Vitae
 ------
@@ -29,10 +30,10 @@ Claudia Sahm : [claudia.sahm@gmail.com](mailto:claudia.sahm@gmail.com) <br/>
 
 Research Field
 ------
-* Housing, Inequality & Business Cycles
-* Computational Macroeconomics
-* Time Series Forecasting
-* Applied Econometrics
+* Financial Economics & Risk Modeling
+* Causal Inference & Applied Econometrics
+* Time Series Forecasting & Scenario Analysis
+
 
 
   
