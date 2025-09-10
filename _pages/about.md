@@ -12,7 +12,7 @@ Welcome!
 ======
 I am an applied economist and data scientist with a Ph.D. in Economics from the University of Washington. My expertise spans causal inference, time series forecasting, and model validation, with applications across tech, finance, and consulting.
 
-I have delivered solutions at Amazon, Deloitte, D.E. Shaw, and Keystone AI—ranging from causal forecasting and supply chain scenario planning to revenue modeling under uncertainty and regulatory stress testing. My research combines Bayesian VARs, quasi-experimental methods, and structural macro models to analyze policy and financial stability questions.
+I have delivered solutions at Keystone AI, Amazon, Deloitte, and D.E. Shaw—ranging from causal forecasting and supply chain scenario planning to revenue modeling under uncertainty and regulatory stress testing. My research combines Bayesian VARs, quasi-experimental methods, and structural macro models to analyze policy and financial stability questions.
 
 I bring a mix of academic rigor and applied experience, translating complex quantitative models into actionable insights for decision-makers in business, finance, and policy.
 
