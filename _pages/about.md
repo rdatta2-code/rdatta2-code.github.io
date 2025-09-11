@@ -18,7 +18,7 @@ I bring a mix of academic rigor and applied experience, translating complex quan
 
 Curriculum Vitae
 ------
-Please find my Curriculum Vitae [here](https://rdatta2-code.github.io/files/CV_Raj_Datta_Consulting.pdf).
+Please find my Curriculum Vitae [here](https://rdatta2-code.github.io/files/CV_Raj_Datta.pdf).
 
 
 References
